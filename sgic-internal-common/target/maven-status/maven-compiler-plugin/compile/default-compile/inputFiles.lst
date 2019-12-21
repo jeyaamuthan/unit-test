@@ -1,0 +1,13 @@
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\ValidationFailure.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\ListContentResponse.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\enums\Priority.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\enums\RestApiResponseStatus.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\exception\handler\RestResponseEntityExceptionHandler.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\BasicResponse.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\PaginatedContentResponse.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\exception\DefectTrackerException.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\ContentResponse.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\dto\mapper\Mapper.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\exception\ServiceException.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\ValidationFailureResponse.java
+D:\unitTest\unitTesting\sgic-internal-common\src\main\java\com\sgic\common\api\response\ApiResponse.java
